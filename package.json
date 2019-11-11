@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KaiMasters/nodejs-practice.git"
+  },
+  "author": "Kai Masters",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KaiMasters/nodejs-practice/issues"
+  },
+  "homepage": "https://github.com/KaiMasters/nodejs-practice#readme"
+}
